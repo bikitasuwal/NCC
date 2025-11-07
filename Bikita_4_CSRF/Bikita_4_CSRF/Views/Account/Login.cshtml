@@ -1,0 +1,15 @@
+﻿<h2>Login Form</h2>
+
+<form asp-action="Login" method="post">
+    @Html.AntiForgeryToken() <!-- 👈 Generates hidden anti-forgery token -->
+
+    <label>Username:</label>
+    <input type="text" name="username" required />
+    <br />
+    <label>Password:</label>
+    <input type="password" name="password" required />
+    <br />
+    <button type="submit">Login</button>
+</form>
+
+<p>@TempData["msg"]</p>

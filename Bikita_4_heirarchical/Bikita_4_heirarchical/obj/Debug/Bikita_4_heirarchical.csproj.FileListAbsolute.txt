@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\Bikita_4_heirarchical\Bikita_4_heirarchical\bin\Debug\Bikita_4_heirarchical.exe.config
+C:\Users\LENOVO\source\repos\Bikita_4_heirarchical\Bikita_4_heirarchical\bin\Debug\Bikita_4_heirarchical.exe
+C:\Users\LENOVO\source\repos\Bikita_4_heirarchical\Bikita_4_heirarchical\bin\Debug\Bikita_4_heirarchical.pdb
+C:\Users\LENOVO\source\repos\Bikita_4_heirarchical\Bikita_4_heirarchical\obj\Debug\Bikita_4_heirarchical.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Bikita_4_heirarchical\Bikita_4_heirarchical\obj\Debug\Bikita_4_heirarchical.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Bikita_4_heirarchical\Bikita_4_heirarchical\obj\Debug\Bikita_4_heirarchical.exe
+C:\Users\LENOVO\source\repos\Bikita_4_heirarchical\Bikita_4_heirarchical\obj\Debug\Bikita_4_heirarchical.pdb

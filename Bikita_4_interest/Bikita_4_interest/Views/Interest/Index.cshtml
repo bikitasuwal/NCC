@@ -1,0 +1,22 @@
+﻿@model Bikita_4_interest.Models.InterestModel
+@{
+    ViewData["Title"] = "Simple Interest Calculator";
+}
+
+<h2>Simple Interest Calculator</h2>
+
+<form asp-action="Calculate" method="post">
+    <div>
+        <label>Principal:</label>
+        <input asp-for="Principal" required />
+    </div>
+    <div>
+        <label>Rate (%):</label>
+        <input asp-for="Rate" required />
+    </div>
+    <div>
+        <label>Time (years):</label>
+        <input asp-for="Time" required />
+    </div>
+    <button type="submit">Calculate</button>
+</form>

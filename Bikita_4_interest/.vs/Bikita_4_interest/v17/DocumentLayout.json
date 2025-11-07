@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Bikita_4_interest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{588E6876-B7D8-4075-BCB4-F2B4D28832DC}|Bikita_4_interest\\Bikita_4_interest.csproj|c:\\users\\lenovo\\source\\repos\\bikita_4_interest\\bikita_4_interest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588E6876-B7D8-4075-BCB4-F2B4D28832DC}|Bikita_4_interest\\Bikita_4_interest.csproj|solutionrelative:bikita_4_interest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588E6876-B7D8-4075-BCB4-F2B4D28832DC}|Bikita_4_interest\\Bikita_4_interest.csproj|c:\\users\\lenovo\\source\\repos\\bikita_4_interest\\bikita_4_interest\\controllers\\interestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588E6876-B7D8-4075-BCB4-F2B4D28832DC}|Bikita_4_interest\\Bikita_4_interest.csproj|solutionrelative:bikita_4_interest\\controllers\\interestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588E6876-B7D8-4075-BCB4-F2B4D28832DC}|Bikita_4_interest\\Bikita_4_interest.csproj|c:\\users\\lenovo\\source\\repos\\bikita_4_interest\\bikita_4_interest\\models\\interestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588E6876-B7D8-4075-BCB4-F2B4D28832DC}|Bikita_4_interest\\Bikita_4_interest.csproj|solutionrelative:bikita_4_interest\\models\\interestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588E6876-B7D8-4075-BCB4-F2B4D28832DC}|Bikita_4_interest\\Bikita_4_interest.csproj|c:\\users\\lenovo\\source\\repos\\bikita_4_interest\\bikita_4_interest\\views\\interest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{588E6876-B7D8-4075-BCB4-F2B4D28832DC}|Bikita_4_interest\\Bikita_4_interest.csproj|solutionrelative:bikita_4_interest\\views\\interest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588E6876-B7D8-4075-BCB4-F2B4D28832DC}|Bikita_4_interest\\Bikita_4_interest.csproj|c:\\users\\lenovo\\source\\repos\\bikita_4_interest\\bikita_4_interest\\views\\interest\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{588E6876-B7D8-4075-BCB4-F2B4D28832DC}|Bikita_4_interest\\Bikita_4_interest.csproj|solutionrelative:bikita_4_interest\\views\\interest\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588E6876-B7D8-4075-BCB4-F2B4D28832DC}|Bikita_4_interest\\Bikita_4_interest.csproj|c:\\users\\lenovo\\source\\repos\\bikita_4_interest\\bikita_4_interest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588E6876-B7D8-4075-BCB4-F2B4D28832DC}|Bikita_4_interest\\Bikita_4_interest.csproj|solutionrelative:bikita_4_interest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Bikita_4_interest\\Bikita_4_interest\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Bikita_4_interest\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Bikita_4_interest\\Bikita_4_interest\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Bikita_4_interest\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:47:35.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterestModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Bikita_4_interest\\Bikita_4_interest\\Models\\InterestModel.cs",
+              "RelativeDocumentMoniker": "Bikita_4_interest\\Models\\InterestModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Bikita_4_interest\\Bikita_4_interest\\Models\\InterestModel.cs",
+              "RelativeToolTip": "Bikita_4_interest\\Models\\InterestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:40:34.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Bikita_4_interest\\Bikita_4_interest\\Views\\Interest\\Result.cshtml",
+              "RelativeDocumentMoniker": "Bikita_4_interest\\Views\\Interest\\Result.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Bikita_4_interest\\Bikita_4_interest\\Views\\Interest\\Result.cshtml",
+              "RelativeToolTip": "Bikita_4_interest\\Views\\Interest\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T08:39:35.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Bikita_4_interest\\Bikita_4_interest\\Views\\Interest\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bikita_4_interest\\Views\\Interest\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Bikita_4_interest\\Bikita_4_interest\\Views\\Interest\\Index.cshtml",
+              "RelativeToolTip": "Bikita_4_interest\\Views\\Interest\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T08:38:27.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterestController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Bikita_4_interest\\Bikita_4_interest\\Controllers\\InterestController.cs",
+              "RelativeDocumentMoniker": "Bikita_4_interest\\Controllers\\InterestController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Bikita_4_interest\\Bikita_4_interest\\Controllers\\InterestController.cs",
+              "RelativeToolTip": "Bikita_4_interest\\Controllers\\InterestController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:25:48.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Bikita_4_interest\\Bikita_4_interest\\Program.cs",
+              "RelativeDocumentMoniker": "Bikita_4_interest\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Bikita_4_interest\\Bikita_4_interest\\Program.cs",
+              "RelativeToolTip": "Bikita_4_interest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:24:21.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

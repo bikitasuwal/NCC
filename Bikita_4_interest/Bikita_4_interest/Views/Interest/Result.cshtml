@@ -1,0 +1,14 @@
+﻿@model Bikita_4_interest.Models.InterestModel
+@{
+    ViewData["Title"] = "Result";
+}
+
+<h2>Simple Interest Result</h2>
+
+<p><strong>Principal:</strong> @Model.Principal</p>
+<p><strong>Rate:</strong> @Model.Rate %</p>
+<p><strong>Time:</strong> @Model.Time years</p>
+<p><strong>Simple Interest:</strong> @Model.Result</p>
+
+<a asp-action="Index">Back</a>
+

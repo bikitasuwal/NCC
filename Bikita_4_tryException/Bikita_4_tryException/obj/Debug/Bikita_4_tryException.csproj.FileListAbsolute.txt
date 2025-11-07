@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\Bikita_4_tryException\Bikita_4_tryException\bin\Debug\Bikita_4_tryException.exe.config
+C:\Users\LENOVO\source\repos\Bikita_4_tryException\Bikita_4_tryException\bin\Debug\Bikita_4_tryException.exe
+C:\Users\LENOVO\source\repos\Bikita_4_tryException\Bikita_4_tryException\bin\Debug\Bikita_4_tryException.pdb
+C:\Users\LENOVO\source\repos\Bikita_4_tryException\Bikita_4_tryException\obj\Debug\Bikita_4_tryException.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Bikita_4_tryException\Bikita_4_tryException\obj\Debug\Bikita_4_tryException.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Bikita_4_tryException\Bikita_4_tryException\obj\Debug\Bikita_4_tryException.exe
+C:\Users\LENOVO\source\repos\Bikita_4_tryException\Bikita_4_tryException\obj\Debug\Bikita_4_tryException.pdb
+C:\Users\LENOVO\source\repos\Bikita_4_tryException\Bikita_4_tryException\obj\Debug\Bikita_4_tryException.exe.config

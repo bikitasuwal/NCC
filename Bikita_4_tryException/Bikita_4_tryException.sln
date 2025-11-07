@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bikita_4_tryException", "Bikita_4_tryException\Bikita_4_tryException.csproj", "{1D5B8CCE-FBB0-4A2F-B9D0-027B30E58BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D5B8CCE-FBB0-4A2F-B9D0-027B30E58BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5B8CCE-FBB0-4A2F-B9D0-027B30E58BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5B8CCE-FBB0-4A2F-B9D0-027B30E58BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5B8CCE-FBB0-4A2F-B9D0-027B30E58BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0276F93C-7E32-4851-A2C6-B3D0E506AFD1}
+	EndGlobalSection
+EndGlobal

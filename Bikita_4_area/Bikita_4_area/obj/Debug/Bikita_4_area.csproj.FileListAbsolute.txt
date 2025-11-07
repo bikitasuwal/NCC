@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\Bikita_4_area\Bikita_4_area\bin\Debug\Bikita_4_area.exe.config
+C:\Users\LENOVO\source\repos\Bikita_4_area\Bikita_4_area\bin\Debug\Bikita_4_area.exe
+C:\Users\LENOVO\source\repos\Bikita_4_area\Bikita_4_area\bin\Debug\Bikita_4_area.pdb
+C:\Users\LENOVO\source\repos\Bikita_4_area\Bikita_4_area\obj\Debug\Bikita_4_area.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Bikita_4_area\Bikita_4_area\obj\Debug\Bikita_4_area.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Bikita_4_area\Bikita_4_area\obj\Debug\Bikita_4_area.exe
+C:\Users\LENOVO\source\repos\Bikita_4_area\Bikita_4_area\obj\Debug\Bikita_4_area.pdb
+C:\Users\LENOVO\source\repos\Bikita_4_area\Bikita_4_area\obj\Debug\Bikita_4_area.exe.config
