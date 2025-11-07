@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\Bikita_InfoServices\Bikita_InfoServices\obj\Release\net8.0\PubTmp\Out\Bikita_InfoServices.exe
+C:\Users\LENOVO\source\repos\Bikita_InfoServices\Bikita_InfoServices\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\LENOVO\source\repos\Bikita_InfoServices\Bikita_InfoServices\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\LENOVO\source\repos\Bikita_InfoServices\Bikita_InfoServices\obj\Release\net8.0\PubTmp\Out\Bikita_InfoServices.dll
+C:\Users\LENOVO\source\repos\Bikita_InfoServices\Bikita_InfoServices\obj\Release\net8.0\PubTmp\Out\Bikita_InfoServices.deps.json
+C:\Users\LENOVO\source\repos\Bikita_InfoServices\Bikita_InfoServices\obj\Release\net8.0\PubTmp\Out\Bikita_InfoServices.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Bikita_InfoServices\Bikita_InfoServices\obj\Release\net8.0\PubTmp\Out\Bikita_InfoServices.pdb

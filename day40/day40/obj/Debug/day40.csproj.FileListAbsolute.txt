@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\day40\day40\bin\Debug\day40.exe.config
+C:\Users\LENOVO\source\repos\day40\day40\bin\Debug\day40.exe
+C:\Users\LENOVO\source\repos\day40\day40\bin\Debug\day40.pdb
+C:\Users\LENOVO\source\repos\day40\day40\obj\Debug\day40.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\day40\day40\obj\Debug\day40.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\day40\day40\obj\Debug\day40.exe
+C:\Users\LENOVO\source\repos\day40\day40\obj\Debug\day40.pdb

@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\ConstructorChaining_bikita_4\ConstructorChaining_bikita_4\bin\Debug\ConstructorChaining_bikita_4.exe.config
+C:\Users\LENOVO\source\repos\ConstructorChaining_bikita_4\ConstructorChaining_bikita_4\bin\Debug\ConstructorChaining_bikita_4.exe
+C:\Users\LENOVO\source\repos\ConstructorChaining_bikita_4\ConstructorChaining_bikita_4\bin\Debug\ConstructorChaining_bikita_4.pdb
+C:\Users\LENOVO\source\repos\ConstructorChaining_bikita_4\ConstructorChaining_bikita_4\obj\Debug\ConstructorChaining_bikita_4.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ConstructorChaining_bikita_4\ConstructorChaining_bikita_4\obj\Debug\ConstructorChaining_bikita_4.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ConstructorChaining_bikita_4\ConstructorChaining_bikita_4\obj\Debug\ConstructorChaining_bikita_4.exe
+C:\Users\LENOVO\source\repos\ConstructorChaining_bikita_4\ConstructorChaining_bikita_4\obj\Debug\ConstructorChaining_bikita_4.pdb
+C:\Users\LENOVO\source\repos\ConstructorChaining_bikita_4\ConstructorChaining_bikita_4\obj\Debug\ConstructorChaining_bikita_4.exe.config

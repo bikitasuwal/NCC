@@ -1,0 +1,9 @@
+﻿@model WebApplication2.Models.Student
+<form asp-action="Create">
+    Name: <input type="text" asp-for="Name" /><br />
+    <span asp-validation-for="Name" class="text-danger"></span><br />
+    Age: <input type="number" asp-for="Age" /><br />
+    <span asp-validation-for="Age" class="text-danger"></span><br />
+    Address: <input type="text" asp-for="Address" /><br />
+    <input type="submit" value="Create" class="btn btn-primary" />
+</form>

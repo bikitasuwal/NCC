@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\first_app_4_bikita\first_app_4_bikita\bin\Debug\first_app_4_bikita.exe.config
+C:\Users\LENOVO\source\repos\first_app_4_bikita\first_app_4_bikita\bin\Debug\first_app_4_bikita.exe
+C:\Users\LENOVO\source\repos\first_app_4_bikita\first_app_4_bikita\bin\Debug\first_app_4_bikita.pdb
+C:\Users\LENOVO\source\repos\first_app_4_bikita\first_app_4_bikita\obj\Debug\first_app_4_bikita.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\first_app_4_bikita\first_app_4_bikita\obj\Debug\first_app_4_bikita.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\first_app_4_bikita\first_app_4_bikita\obj\Debug\first_app_4_bikita.exe
+C:\Users\LENOVO\source\repos\first_app_4_bikita\first_app_4_bikita\obj\Debug\first_app_4_bikita.pdb
+C:\Users\LENOVO\source\repos\first_app_4_bikita\first_app_4_bikita\obj\Debug\first_app_4_bikita.exe.config
